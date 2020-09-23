@@ -1,0 +1,25 @@
+body {
+	margin: 2rem;
+}
+
+.skyNet {
+	position: relative;
+	width: 100%;
+	cursor: pointer;
+}
+
+.skyNet p {
+	position: absolute;
+	padding: 5px;
+	background-color: rgba(0, 0, 0, 1);
+	color: #fff;
+	border: 1px solid #fff;
+	z-index: 1;
+	font-size: 1rem;
+}
+
+.innerSquare {
+	border: 1px solid #fff;
+	z-index: 1;
+	position: absolute;
+}
