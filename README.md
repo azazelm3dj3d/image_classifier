@@ -8,4 +8,4 @@ HTML, CSS, JavaScript (Tensorflow.js + coco-ssd Model)
 
 ## This code is for a YouTube video!
 
-Video: Coming Soon!
+Video: https://www.youtube.com/watch?v=9PeFDHVM66Q
